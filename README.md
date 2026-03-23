@@ -34,7 +34,7 @@
 - ⚡ 흥미로운 사실: 기술 이벤트를 기획하고 픽셀 아트 에셋을 만드는 것을 좋아합니다.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Mario Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Mario Banner">
 </div>
 
 ## 🛠 &nbsp;Tech Stack
