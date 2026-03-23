@@ -19,8 +19,6 @@
 
 ---
 
-<img align="right" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" />
-
 ### 🌟 About Me
 
 - 👨‍💻 Systems Engineering student and AI passionate, always learning and exploring new technologies.
@@ -34,6 +32,10 @@
 - 💬 웹 개발(Laravel, Vue.js, Angular) 및 머신러닝(TensorFlow, SARIMA)에 대해 언제든 물어보세요.
 - 🌱 현재 컴퓨터 비전 모델, 네트워킹(Cisco), 클라우드 아키텍처에 대해 더 깊이 공부하고 있습니다.
 - ⚡ 흥미로운 사실: 기술 이벤트를 기획하고 픽셀 아트 에셋을 만드는 것을 좋아합니다.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Mario Banner">
+</div>
 
 ## 🛠 &nbsp;Tech Stack
 
