@@ -19,6 +19,8 @@
 
 ---
 
+<img align="right" width="250" src="https://media1.tenor.com/m/pZq_ZAY2C0UAAAAC/pop-cat.gif" alt="Pop Cat" />
+
 ### 🌟 About Me
 
 - 👨‍💻 Systems Engineering student and AI passionate, always learning and exploring new technologies.
