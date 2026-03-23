@@ -1,87 +1,127 @@
 <div align="center">
-<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
 <h3 align="center">
-Hola, soy Alexis / Hi, I'm Alexis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  ¡Hola!, Soy Alexis 👋
 </h3>
 <h4 align="center">
-안녕하세요, 저는 Alexis입니다 / 你好，我是 Alexis
+  Hi, I'm Alexis | 안녕하세요, 저는 Alexis입니다 | 你好，我是 Alexis
 </h4>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DSystems%2BEngineering%2BStudent%3BPassionate%2Babout%2BAI%2B%25F0%259F%25A4%2596%3BAlways%2Blearning%2Bnew%2Bthings%3BWelcome%2Bto%2Bmy%2Bprofile!%2B%25F0%259F%2591%2580%26font%3DFira%2BCode%26center%3Dtrue%26width%3D500%26height%3D45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineering%20Student;Passionate%20about%20AI;Full%20Stack%20Developer;Robotics%20&%20IoT%20Enthusiast;GDG%20Organizer%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/AceLar0523/" align="center" ><img align="center"  alt="" src="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3DAceLar0523.AceLar0523"></a>
+  <a href="https://github.com/AceLar0523/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AceLar0523.AceLar0523"></a>
 </p>
 
-🇪🇸 👨‍💻 Como estudiante de Ingeniería de Sistemas y apasionado por la Inteligencia Artificial, estoy constantemente explorando nuevas tecnologías.
+---
 
-🇺🇸 👨‍💻 As a Systems Engineering student passionate about AI, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 Estudiante de Ingeniería de Sistemas y un apasionado por la Inteligencia Artificial, siempre aprendiendo y explorando nuevas tecnologías.
+- 💬 Pregúntame sobre desarrollo web (Laravel, Vue.js, Angular), Machine Learning (TensorFlow, SARIMA), o proyectos de IoT (ESP32, PIC16F877A).
+- 🌱 Actualmente profundizando en Modelos de Visión por Computadora, Redes (Cisco) y Arquitecturas en la Nube.
+- ⚡ Dato curioso: Me encanta organizar eventos de tecnología, hacer proyectos de robótica y crear assets de pixel art.
 
-🇰🇷 👨‍💻 시스템 공학 학생이자 **인공지능(AI)**에 열정을 가진 사람으로서, 저는 끊임없이 새로운 기술을 배우고 탐구합니다.
+## 🛠 &nbsp;Tech Stack
 
-🇨🇳 👨‍💻 作为一名热衷于人工智能 (AI)的系统工程专业学生，我不断学习和探索新技术。
+#### 🔧 Languages
 
-💬 Ask me about Systems Engineering, Artificial Intelligence & Tech.
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-🌱 I’m currently diving deeper into Machine Learning and AI
+#### 🖥️ Frameworks
 
-🛠  Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
-🔧 Languages
+#### 📚 Libraries & Databases
 
-🖥️ Frameworks
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-📚 Libraries
+#### 🔧 Tools
 
-🔧 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-📊 Profile Statistics
+## 📊 Profile Statistics
 
-<div align=center>
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=AceLar0523&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
 
 </div>
+ 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AceLar0523&theme=github_dark)
+  
+ </div>
+ 
+ ### ⏱ Streak Stats
+ 
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AceLar0523&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
-💳 Github Profile Summary Card
+ </div>
+ 
+ ### 📈 Activity Graph
+ 
+ [![Alexis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AceLar0523&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📊 Most Used Language
+
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=AceLar0523&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
+ 
+ ### 🏆 Profile Trophies
 
 <div align=center>
-
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AceLar0523&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
-⏱ Streak Stats
+---
 
-<div align=center>
-
-</div>
-
-📈 Activity Graph
-
-📊 Most Used Language
-
-<div align=center>
-
-</div>
-
-🏆 Profile Trophies
-
-<div align=center>
-
-</div>
-
-🔗  Contact Me
+### 🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:tu-correo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/tu-perfil/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.google.com/search?q=https://t.me/Tu_Usuario_Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/tu-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<h5 align="center">Construyendo el futuro con Inteligencia Artificial y Código</h5>
+<h5 align="center">"Building the future with AI and Code" | "AI와 코드로 미래를 건설하다" | "用人工智能和代码构建未来"</h5>
+
+---
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
-Credit: Original Template structure adapted for AceLar0523
+------
+
+Credit: [AceLar0523](https://github.com/AceLar0523)
