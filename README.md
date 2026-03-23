@@ -10,7 +10,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineering%20Student;Passionate%20about%20AI;Full%20Stack%20Developer;Robotics%20&%20IoT%20Enthusiast;GDG%20Organizer%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineering%20Student;Passionate%20about%20AI;Full%20Stack%20Developer;GDG%20Organizer%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -19,10 +19,19 @@
 
 ---
 
-- 👨‍💻 Estudiante de Ingeniería de Sistemas y un apasionado por la Inteligencia Artificial, siempre aprendiendo y explorando nuevas tecnologías.
-- 💬 Pregúntame sobre desarrollo web (Laravel, Vue.js, Angular), Machine Learning (TensorFlow, SARIMA), o proyectos de IoT (ESP32, PIC16F877A).
-- 🌱 Actualmente profundizando en Modelos de Visión por Computadora, Redes (Cisco) y Arquitecturas en la Nube.
-- ⚡ Dato curioso: Me encanta organizar eventos de tecnología, hacer proyectos de robótica y crear assets de pixel art.
+### 🌟 About Me
+
+- 👨‍💻 Systems Engineering student and AI passionate, always learning and exploring new technologies.
+- 💬 Ask me about web development (Laravel, Vue.js, Angular) and Machine Learning (TensorFlow, SARIMA).
+- 🌱 I'm currently diving deeper into Computer Vision Models, Networking (Cisco), and Cloud Architectures.
+- ⚡ Fun fact: I love organizing tech events and creating pixel art assets.
+
+### 🌟 저에 대하여 (About Me)
+
+- 👨‍💻 시스템 공학 학생이자 AI 열정가로, 항상 새로운 기술을 배우고 탐구합니다.
+- 💬 웹 개발(Laravel, Vue.js, Angular) 및 머신러닝(TensorFlow, SARIMA)에 대해 언제든 물어보세요.
+- 🌱 현재 컴퓨터 비전 모델, 네트워킹(Cisco), 클라우드 아키텍처에 대해 더 깊이 공부하고 있습니다.
+- ⚡ 흥미로운 사실: 기술 이벤트를 기획하고 픽셀 아트 에셋을 만드는 것을 좋아합니다.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -114,6 +123,8 @@
 <div align="center">
 <a href="mailto:tu-correo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/tu-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/tu-usuario-instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discordapp.com/users/tu-id-de-discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 <h5 align="center">"Building the future with AI and Code" | "AI와 코드로 미래를 건설하다" | "用人工智能和代码构建未来"</h5>
